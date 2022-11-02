@@ -8,7 +8,7 @@ class HomeController extends Controller
 {
     public function home()
     {
-    return view('petowner_view//home');
+    return view('petowner_view/home');
     }
     
 
